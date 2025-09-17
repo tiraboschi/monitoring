@@ -1,4 +1,7 @@
-# SSPOperatorDown
+# SSPOperatorDown [Deprecated]
+
+This alert runbook has been deprecated; since it is a duplicate of the SSPDown
+alert runbook.
 
 ## Meaning
 
@@ -49,7 +52,7 @@ attaching the artifacts gathered during the diagnosis procedure.-->
 <!--USstart-->
 If you cannot resolve the issue, see the following resources:
 
-- [OKD Help](https://www.okd.io/help/)
+- [OKD Help](https://okd.io/docs/community/help/)
 - [#virtualization Slack channel](https://kubernetes.slack.com/channels/virtualization)
 <!--USend-->
 

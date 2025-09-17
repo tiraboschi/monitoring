@@ -1,4 +1,4 @@
-# KubeMacPoolDown
+# KubeMacPoolDown [Deprecated]
 
 **Note:** Starting from 4.14, this runbook was replaced by [KubemacpoolDown runbook](http://kubevirt.io/monitoring/runbooks/KubemacpoolDown.html).
 
@@ -47,6 +47,6 @@ attaching the artifacts gathered during the diagnosis procedure.-->
 <!--USstart-->
 If you cannot resolve the issue, see the following resources:
 
-- [OKD Help](https://www.okd.io/help/)
+- [OKD Help](https://okd.io/docs/community/help/)
 - [#virtualization Slack channel](https://kubernetes.slack.com/channels/virtualization)
 <!--USend-->

@@ -1,4 +1,7 @@
-# VirtualMachineCRCErrors
+# VirtualMachineCRCErrors [Deprecated]
+
+This alert has been deprecated; it does not indicate a genuine issue. If
+triggered, it may be safely ignored and silenced.
 
 ## Meaning
 
@@ -65,5 +68,5 @@ provisioner: openshift-storage.rbd.csi.ceph.com
 
 If you cannot resolve the issue, see the following resources:
 
-- [OKD Help](https://www.okd.io/help/)
+- [OKD Help](https://okd.io/docs/community/help/)
 - [#virtualization Slack channel](https://kubernetes.slack.com/channels/virtualization)
